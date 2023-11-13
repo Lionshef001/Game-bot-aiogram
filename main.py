@@ -2,7 +2,7 @@ from aiogram import types, executor, Dispatcher, Bot
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from asyncio import sleep
 
-bot = Bot(token="6716988575:AAEoLEcGS_2gglQXYn8WXqUDphkvIaR10Ek")
+bot = Bot(token="")
 dp = Dispatcher(bot=bot)
 
 games_kb = ReplyKeyboardMarkup(
